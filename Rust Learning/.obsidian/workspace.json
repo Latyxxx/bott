@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "9ab0d0172dd90ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2e8264f93f9748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25be8fa102ead181",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DevOps/DevOps Roadmap.png"
+              },
+              "icon": "lucide-image",
+              "title": "DevOps Roadmap"
+            }
+          },
+          {
+            "id": "b7dbcd5996bf87b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/DNS works, OSI model, IP addresses, ports, etc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS works, OSI model, IP addresses, ports, etc"
+            }
+          },
+          {
+            "id": "dd6ac1ac8acbfa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Web Servers, such as Nginx, Apache, or IIS..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Servers, such as Nginx, Apache, or IIS."
+            }
+          },
+          {
+            "id": "98cec16060f91b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications."
+            }
+          },
+          {
+            "id": "c6f9bf72bc19e2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/DevOps - Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps - Roadmap"
+            }
+          },
+          {
+            "id": "762139eb3a0e8957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/GUIs, CLI, APIs - Learn Basic Terms of Infrastructure-as-Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GUIs, CLI, APIs - Learn Basic Terms of Infrastructure-as-Code"
+            }
+          },
+          {
+            "id": "9c9a101902d9672d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Continuous Integration, Continuous Deployment (CI, CD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continuous Integration, Continuous Deployment (CI, CD)"
+            }
+          },
+          {
+            "id": "c51bd9ba8d26f627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Monitoring & Observability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitoring & Observability"
+            }
+          },
+          {
+            "id": "6c99055ab581f595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Cloud provider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud provider"
+            }
+          },
+          {
+            "id": "0f45ada13868eaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Software Engineering Practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Engineering Practices"
+            }
+          },
+          {
+            "id": "3f149972a1ab02cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Cloud provider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud provider"
+            }
+          },
+          {
+            "id": "599231848a39d95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications."
+            }
+          },
+          {
+            "id": "aa4b67b2d0a8ced5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offline activations/Accounts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accounts"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495b1716b6ac46c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "142209e315ec549d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cab99bf1f2dc96e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "777baf8e700a7515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8af9a8365d76f2ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e1de74c6161eb0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b726ef07e7bf4002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc957a470875d62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ebbc61bcbbb1e35b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "271f7428cf53ea42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b075ba2cdc82188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "4cab99bf1f2dc96e",
+  "lastOpenFiles": [
+    "DevOps/Software Engineering Practices.md",
+    "DevOps/DevOps Roadmap.png",
+    "DevOps/Container orchestration automates the deployment, management, scaling, and networking of containers..md",
+    "Мусорка/Untitled.md",
+    "Мусорка/Pasted image 20250930190151.png",
+    "Мусорка",
+    "Мусорка/Pasted image 20250930193329.png",
+    "Мусорка/Pasted image 20250930191946.png",
+    "DevOps/Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications..md",
+    "Offline activations/Accounts.md",
+    "DevOps/DNS works, OSI model, IP addresses, ports, etc.md",
+    "DevOps/DevOps - Roadmap.md",
+    "DevOps/Cloud provider.md",
+    "DevOps/Tools.md",
+    "DevOps/Web Servers, such as Nginx, Apache, or IIS..md",
+    "Offline activations",
+    "DevOps/Monitoring & Observability.md",
+    "DevOps/Continuous Integration, Continuous Deployment (CI, CD).md",
+    "DevOps/GUIs, CLI, APIs - Learn Basic Terms of Infrastructure-as-Code.md",
+    "DevOps/К.png",
+    "DevOps/Roadmap IMG.md",
+    "2025-09-27.md",
+    "Untitled.base",
+    "Залутать кейс в CS2 сегодня.md",
+    "DevOps",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
